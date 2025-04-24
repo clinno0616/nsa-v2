@@ -19,7 +19,7 @@ This repository contains an implementation of a Neural Sparse Attention (NSA) mo
 The NSA model implements a transformer architecture with specialized attention mechanisms that reduce memory and computational requirements by using sparse attention patterns. This makes it suitable for training on longer sequences with limited computational resources.
 
 This implementation is based on the Neural Sparse Attention model described in the paper:  
-[Neural Sparse Attention](https://arxiv.org/abs/2502.11089)
+[Neural Sparse Attention (NSA): Efficient Long Sequence Modeling with Improved Sparsity Implementation](https://arxiv.org/abs/2502.11089) by DeepSeek AI.
 
 The implementation includes:
 - A core model with customizable neural sparse attention
